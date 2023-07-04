@@ -30,7 +30,7 @@ The Twitter Sentiment Analysis project aims to analyze the sentiment expressed i
 
 ## Usage
 
-1. Access the web application by navigating to http://kinde.pythonanywhere.com in your web browser.
+1. Access the web application by navigating to http://127.0.0.1:5000 in your web browser.
 
 2. Enter a sentence or tweet in the input field.
 
